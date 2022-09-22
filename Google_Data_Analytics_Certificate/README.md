@@ -1,1 +1,2 @@
-Google Data Analytics Professional Certificate - project report
+## Google Data Analytics Professional Certificate - Project report
+This data analysis report is completed as part of the Google Data Analytics Certificate - Capstone project. The project studies consumer usage of smart devices fitness data and suggests recommendations to guide marketing strategy. Analysis is done by following the six phases of data analysis - Ask, Prepare, Process, Analyze, Share and Act.
