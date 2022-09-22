@@ -1,2 +1,2 @@
 # Analytics
-Repository for analytics projects
+A repository for analytics projects.
